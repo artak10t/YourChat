@@ -2,7 +2,7 @@
 Messaging app for android that supports lobbies
 
 ## Client
-[[client.png]]
+![client](client.png)
 
 ## Server
-[[server.png]]
+![server](server.png)
